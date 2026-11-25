@@ -1,0 +1,14 @@
+{
+  "mode": "public",
+  "serverOnline": true,
+  "owners": ["263775814192"],
+  "premiumUsers": [],
+  "bannedUsers": [],
+  "groups": {},
+  "stats": {
+    "totalCommands": 0,
+    "totalMessages": 0,
+    "startTime": 0
+  },
+  "customSettings": {}
+}
