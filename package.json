@@ -1,0 +1,24 @@
+{
+  "name": "clytonic-tech-md",
+  "version": "1.0.0",
+  "description": "Clytonic Tech MD WhatsApp Bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "author": "Clytonic Tech",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "pino": "^9.0.0",
+    "dotenv": "^16.4.5",
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0",
+    "form-data": "^4.0.0"
+  }
+}
