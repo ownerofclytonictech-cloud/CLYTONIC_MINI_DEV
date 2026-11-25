@@ -1,0 +1,12 @@
+{
+  "name": "clytonic-tech-md",
+  "description": "Clytonic Tech MD WhatsApp Bot",
+  "repository": "https://github.com/clytonic/clytonic-tech-md",
+  "keywords": ["whatsapp", "bot", "baileys", "clytonic"],
+  "env": {
+    "OWNER_NUMBER": {
+      "description": "Owner WhatsApp number",
+      "value": "263775814192"
+    }
+  }
+}
